@@ -1,4 +1,4 @@
-![Supported Versions]([https://img.shields.io/github/pipenv/locked/python-version/hvppy-dev/BananaStatus](https://img.shields.io/github/pipenv/locked/python-version/hvppy-dev/BananaStatus?color=darkmagenta&style=flat-square))
+![Supported Versions](https://img.shields.io/github/pipenv/locked/python-version/hvppy-dev/BananaStatus?color=darkmagenta&style=flat-square)
 # BananaStatus
  Animated custom status for discord
 
