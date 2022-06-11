@@ -1,0 +1,30 @@
+{
+    "Token": "Token here", //Token in " " || Токен в " "
+    "TimeDelay": 5, //Delay status change || Задержка между сменой статусов
+    "Status": [
+        {
+            "text": "Status here"
+        },                              
+        {
+            "text": "Status here 2"
+        }
+
+    ]
+}
+
+/*
+To add a new status, you need to insert
+
+        {
+            "text": "Status here"
+        }
+
+*******************************************************
+
+Для добавление нового статуса надо вставить 
+
+        {
+            "text": "Status here"
+        }
+
+*/
